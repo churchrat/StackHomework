@@ -1,0 +1,14 @@
+D:\homeworke\StackHomeworkPalin\StackSkobi\bin\Debug\net8.0\StackSkobi.exe
+D:\homeworke\StackHomeworkPalin\StackSkobi\bin\Debug\net8.0\StackSkobi.deps.json
+D:\homeworke\StackHomeworkPalin\StackSkobi\bin\Debug\net8.0\StackSkobi.runtimeconfig.json
+D:\homeworke\StackHomeworkPalin\StackSkobi\bin\Debug\net8.0\StackSkobi.dll
+D:\homeworke\StackHomeworkPalin\StackSkobi\bin\Debug\net8.0\StackSkobi.pdb
+D:\homeworke\StackHomeworkPalin\StackSkobi\obj\Debug\net8.0\StackSkobi.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\StackHomeworkPalin\StackSkobi\obj\Debug\net8.0\StackSkobi.AssemblyInfoInputs.cache
+D:\homeworke\StackHomeworkPalin\StackSkobi\obj\Debug\net8.0\StackSkobi.AssemblyInfo.cs
+D:\homeworke\StackHomeworkPalin\StackSkobi\obj\Debug\net8.0\StackSkobi.csproj.CoreCompileInputs.cache
+D:\homeworke\StackHomeworkPalin\StackSkobi\obj\Debug\net8.0\StackSkobi.dll
+D:\homeworke\StackHomeworkPalin\StackSkobi\obj\Debug\net8.0\refint\StackSkobi.dll
+D:\homeworke\StackHomeworkPalin\StackSkobi\obj\Debug\net8.0\StackSkobi.pdb
+D:\homeworke\StackHomeworkPalin\StackSkobi\obj\Debug\net8.0\StackSkobi.genruntimeconfig.cache
+D:\homeworke\StackHomeworkPalin\StackSkobi\obj\Debug\net8.0\ref\StackSkobi.dll

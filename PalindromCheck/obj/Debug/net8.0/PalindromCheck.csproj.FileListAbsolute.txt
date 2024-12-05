@@ -1,0 +1,14 @@
+D:\homeworke\StackHomeworkPalin\PalindromCheck\bin\Debug\net8.0\PalindromCheck.exe
+D:\homeworke\StackHomeworkPalin\PalindromCheck\bin\Debug\net8.0\PalindromCheck.deps.json
+D:\homeworke\StackHomeworkPalin\PalindromCheck\bin\Debug\net8.0\PalindromCheck.runtimeconfig.json
+D:\homeworke\StackHomeworkPalin\PalindromCheck\bin\Debug\net8.0\PalindromCheck.dll
+D:\homeworke\StackHomeworkPalin\PalindromCheck\bin\Debug\net8.0\PalindromCheck.pdb
+D:\homeworke\StackHomeworkPalin\PalindromCheck\obj\Debug\net8.0\PalindromCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\StackHomeworkPalin\PalindromCheck\obj\Debug\net8.0\PalindromCheck.AssemblyInfoInputs.cache
+D:\homeworke\StackHomeworkPalin\PalindromCheck\obj\Debug\net8.0\PalindromCheck.AssemblyInfo.cs
+D:\homeworke\StackHomeworkPalin\PalindromCheck\obj\Debug\net8.0\PalindromCheck.csproj.CoreCompileInputs.cache
+D:\homeworke\StackHomeworkPalin\PalindromCheck\obj\Debug\net8.0\PalindromCheck.dll
+D:\homeworke\StackHomeworkPalin\PalindromCheck\obj\Debug\net8.0\refint\PalindromCheck.dll
+D:\homeworke\StackHomeworkPalin\PalindromCheck\obj\Debug\net8.0\PalindromCheck.pdb
+D:\homeworke\StackHomeworkPalin\PalindromCheck\obj\Debug\net8.0\PalindromCheck.genruntimeconfig.cache
+D:\homeworke\StackHomeworkPalin\PalindromCheck\obj\Debug\net8.0\ref\PalindromCheck.dll

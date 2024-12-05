@@ -1,0 +1,14 @@
+D:\homeworke\StackHomeworkPalin\Izrechenie\bin\Debug\net8.0\Izrechenie.exe
+D:\homeworke\StackHomeworkPalin\Izrechenie\bin\Debug\net8.0\Izrechenie.deps.json
+D:\homeworke\StackHomeworkPalin\Izrechenie\bin\Debug\net8.0\Izrechenie.runtimeconfig.json
+D:\homeworke\StackHomeworkPalin\Izrechenie\bin\Debug\net8.0\Izrechenie.dll
+D:\homeworke\StackHomeworkPalin\Izrechenie\bin\Debug\net8.0\Izrechenie.pdb
+D:\homeworke\StackHomeworkPalin\Izrechenie\obj\Debug\net8.0\Izrechenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\StackHomeworkPalin\Izrechenie\obj\Debug\net8.0\Izrechenie.AssemblyInfoInputs.cache
+D:\homeworke\StackHomeworkPalin\Izrechenie\obj\Debug\net8.0\Izrechenie.AssemblyInfo.cs
+D:\homeworke\StackHomeworkPalin\Izrechenie\obj\Debug\net8.0\Izrechenie.csproj.CoreCompileInputs.cache
+D:\homeworke\StackHomeworkPalin\Izrechenie\obj\Debug\net8.0\Izrechenie.dll
+D:\homeworke\StackHomeworkPalin\Izrechenie\obj\Debug\net8.0\refint\Izrechenie.dll
+D:\homeworke\StackHomeworkPalin\Izrechenie\obj\Debug\net8.0\Izrechenie.pdb
+D:\homeworke\StackHomeworkPalin\Izrechenie\obj\Debug\net8.0\Izrechenie.genruntimeconfig.cache
+D:\homeworke\StackHomeworkPalin\Izrechenie\obj\Debug\net8.0\ref\Izrechenie.dll
